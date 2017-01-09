@@ -1,2 +1,2 @@
 # hello-world
-Just Learning gitHub's Useing
+I am so glad to meet you,GitHub
